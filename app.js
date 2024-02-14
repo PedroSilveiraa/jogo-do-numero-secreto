@@ -33,9 +33,6 @@ function verificarChute(){
         limparCampo();
     }
 
-
-
-
 }
 
 function gerarNumeroAleatorio() {
